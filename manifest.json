@@ -1,0 +1,10 @@
+{
+  "display_name": "预设缝合助手 · 手机版",
+  "loading_order": 101,
+  "requires": [],
+  "optional": [],
+  "js": "index.js?ver=1.0.0",
+  "author": "汤小汤",
+  "version": "1.0.0",
+  "homePage": "https://github.com/ShanTing-sy/preset-stitcher-mobile"
+}
