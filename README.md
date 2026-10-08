@@ -1,6 +1,6 @@
-# 预设缝合助手 · 手机版
+# 奇美拉·预设缝合台 · 手机版
 
-「[预设缝合助手](https://github.com/ShanTing-sy/preset-stitcher)」的**手机适配版**。
+「[奇美拉·预设缝合台](https://github.com/ShanTing-sy/preset-stitcher)」的**手机适配版**。
 
 功能与桌面版**完全一致**（缝合 / 变量 / 正则 / AI 助手 / 条目编辑，一个不少），差别只在布局：
 

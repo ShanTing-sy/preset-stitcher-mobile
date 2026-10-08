@@ -1,10 +1,10 @@
 {
-  "display_name": "预设缝合助手 · 手机版",
+  "display_name": "奇美拉·预设缝合台 · 手机版",
   "loading_order": 101,
   "requires": [],
   "optional": [],
-  "js": "index.js?ver=1.1.2",
+  "js": "index.js?ver=1.1.3",
   "author": "简舒然",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "homePage": "https://github.com/ShanTing-sy/preset-stitcher-mobile"
 }
